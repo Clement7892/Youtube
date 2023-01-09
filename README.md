@@ -2,14 +2,16 @@
 Réalisation de l'application Youtube Mobile
 
 ## Pour le 19 décembre
-  - Login / Register
+  - Login
   - Barre de Navigation
   - Header : 
-    - Modification / Consulter le profil
     - Visuel des boutons
+  - Footer : 
+    - Visuel des boutons + navigation
     
 ## Pour le 9 Janvier
+  - Réalisation les différents PopUp
+  - Avoir un maximum de bouton fonctionnel
   - Création d'une vidéo (photo, description, ...)
   - Voir les vidéo (voir, commenter, like, ...)
-  - Historique des vidéo
   
